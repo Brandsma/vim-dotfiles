@@ -1,0 +1,8 @@
+bundle/
+
+*.un
+*.swp
+
+*~
+
+*.netrwhist
